@@ -10,4 +10,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=felipe-albuquerque-tavares&show_icons=true&locale=en&layout=compact" alt="felipe-albuquerque-tavares" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=felipe-albuquerque-tavares&show_icons=true&locale=en" alt="felipe-albuquerque-tavares" /></p>
